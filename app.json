@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "shopping_rn",
+    "slug": "shopping_rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "shopping_rn"
+}
